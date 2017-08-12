@@ -1,5 +1,5 @@
 {
-    "name": "borales/yii2-phone-input",
+    "name": "richweber/yii2-phone-input",
     "version": "0.1.1",
     "description": "Yii2 International telephone numbers - Asset Bundle, Behavior, Validator, Widget",
     "keywords": [
